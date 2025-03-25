@@ -1,0 +1,16 @@
+{
+  "name": "prueba-tecnica-strix",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "html-report": "cypress run --spec cypress/e2e/login.cy.js --headed",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.8.2"
+  }
+}
