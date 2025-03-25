@@ -1,6 +1,5 @@
 📌 Prueba Técnica Strix
 
-📌 Descripción
 Este proyecto contiene pruebas automatizadas con Cypress para verificar el inicio de sesión en la plataforma Strix.
 Se incluyen pruebas para credenciales correctas e incorrectas.
 
