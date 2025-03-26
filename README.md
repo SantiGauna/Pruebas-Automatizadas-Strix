@@ -32,7 +32,7 @@ Se incluyen pruebas para credenciales correctas e incorrectas.
     Asegúrate de tener Node.js instalado.
     Luego, ejecuta el siguiente comando en la raíz del proyecto:
 
-        npm install
+    npm install
 
 
 
